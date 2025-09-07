@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yXno4L7qoeA6zVI3p/8+ty8d7BWfihKgHFS1BFpvFic=",
+  "Source": "PetPal.Api",
+  "BasePath": "_content/PetPal.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
