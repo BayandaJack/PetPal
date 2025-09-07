@@ -1,2 +1,2 @@
 # PetPal
-A simple webapp for taking care of a virtual pet.
+A simple webapp for taking care of virtual pets.
